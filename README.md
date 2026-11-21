@@ -5,6 +5,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por resolver problemas com código.
 
@@ -15,7 +16,8 @@ Estudante de Análise e Desenvolvimento de Sistemas, apaixonada por resolver pro
 - Java
 - C
 - Git & GitHub
-
+- Python
+  
 ### Projetos
 - **CyberQuiz**: quiz de TI e IA com visual neon, full stack (frontend, backend, API e SQL). [Ver repositório](COLE-AQUI-O-LINK-DO-REPOSITORIO)
 - **Gerenciador de perguntas de quiz em C**: projeto em grupo, com perguntas salvas em CSV. [Ver repositório](COLE-AQUI-O-LINK-DO-REPOSITORIO)
