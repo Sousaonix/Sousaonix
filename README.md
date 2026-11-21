@@ -1,4 +1,4 @@
-## Oi, eu sou a Nayra 👋
+## Olá, eu sou a Nayra 👋
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:4C1D95,100:A855F7&text=Nayra%20Sousa&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Desenvolvedora%20em%20forma%C3%A7%C3%A3o&descAlignY=62" width="100%" />
