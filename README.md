@@ -1,9 +1,9 @@
 ## Oi, eu sou a Nayra 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:D946EF,100:FF6B00&text=Nayra%20Sousa&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Desenvolvedora%20em%20forma%C3%A7%C3%A3o&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:4C1D95,100:A855F7&text=Nayra%20Sousa&fontColor=ffffff&fontSize=48&fontAlignY=40&desc=Desenvolvedora%20em%20forma%C3%A7%C3%A3o&descAlignY=62" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D946EF&center=true&vCenter=true&width=520&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonada+por+resolver+problemas+com+c%C3%B3digo;Em+busca+da+primeira+oportunidade+de+est%C3%A1gio" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=A855F7&center=true&vCenter=true&width=800&height=40&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Apaixonada+por+resolver+problemas+com+c%C3%B3digo;Em+busca+da+primeira+oportunidade+de+est%C3%A1gio" alt="Frases animadas" />
 
 </div>
 
@@ -12,15 +12,15 @@ Cursando **Análise e Desenvolvimento de Sistemas** no Centro Universitário Bra
 
 ### 🛠️ Tecnologias
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=A855F7)
+![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=A855F7)
+![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=A855F7)
+![Java](https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=A855F7)
+![C](https://img.shields.io/badge/C-0D0D0D?style=for-the-badge&logo=c&logoColor=A855F7)
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=A855F7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=A855F7)
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=A855F7)
+![VS Code](https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7)
 
 ### 🚀 Projetos em destaque
 
@@ -37,11 +37,11 @@ Cursando **Análise e Desenvolvimento de Sistemas** no Centro Universitário Bra
 
 ### 📫 Vamos conversar?
 
-<a href="https://www.linkedin.com/in/nayra-sousa-5b923a3ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nayrasousa.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nayra-sousa-5b923a3ba/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A855F7" /></a>
+<a href="mailto:nayrasousa.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A855F7" /></a>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF6B00,100:D946EF&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A855F7,50:4C1D95,100:000000&section=footer" width="100%" />
 
 </div>
